@@ -1,3 +1,25 @@
+## Deployed version
+https://cryptoapisakj.netlify.app/
+
+Main Page:
+
+![image](https://user-images.githubusercontent.com/32104056/158025773-b584dce1-e958-46c2-aab6-a881a6bc3dcd.png)
+
+
+Cryptocurrencies details:
+
+
+![image](https://user-images.githubusercontent.com/32104056/158025891-7a91e4bb-cfe5-4b7d-96fb-52cdb8303fc0.png)
+
+
+CryptoNews : 
+
+![image](https://user-images.githubusercontent.com/32104056/158025924-48ae8a59-9279-4b1b-9b1c-44f0d8b732b9.png)
+
+
+
+The app is made by using the the coinranking api and Bing News Search api to display the market price of cryptocurrencies along with their price graph.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
