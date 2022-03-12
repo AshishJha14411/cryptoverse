@@ -21,7 +21,7 @@ CryptoNews :
 
 
 
-The app is made by using the the coinranking api and Bing News Search api to display the market price of cryptocurrencies along with their price graph.
+The app is made by using the coinranking api and Bing News Search api to display the market price of cryptocurrencies along with their price graph.
 
 ## To run the project on your device
 
